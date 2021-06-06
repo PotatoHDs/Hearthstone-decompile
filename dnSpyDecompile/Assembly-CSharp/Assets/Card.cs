@@ -1,0 +1,79 @@
+﻿using System;
+
+namespace Assets
+{
+	// Token: 0x02000FBF RID: 4031
+	public static class Card
+	{
+		// Token: 0x0600B00F RID: 45071 RVA: 0x00366C24 File Offset: 0x00364E24
+		public static Card.CardTextBuilderType ParseCardTextBuilderTypeValue(string value)
+		{
+			Card.CardTextBuilderType result;
+			EnumUtils.TryGetEnum<Card.CardTextBuilderType>(value, out result);
+			return result;
+		}
+
+		// Token: 0x020027DA RID: 10202
+		public enum CardTextBuilderType
+		{
+			// Token: 0x0400F656 RID: 63062
+			DEFAULT,
+			// Token: 0x0400F657 RID: 63063
+			JADE_GOLEM,
+			// Token: 0x0400F658 RID: 63064
+			JADE_GOLEM_TRIGGER,
+			// Token: 0x0400F659 RID: 63065
+			MODULAR_ENTITY,
+			// Token: 0x0400F65A RID: 63066
+			KAZAKUS_POTION_EFFECT,
+			// Token: 0x0400F65B RID: 63067
+			PRIMORDIAL_WAND,
+			// Token: 0x0400F65C RID: 63068
+			ALTERNATE_CARD_TEXT,
+			// Token: 0x0400F65D RID: 63069
+			SCRIPT_DATA_NUM_1,
+			// Token: 0x0400F65E RID: 63070
+			GALAKROND_COUNTER,
+			// Token: 0x0400F65F RID: 63071
+			DECORATE,
+			// Token: 0x0400F660 RID: 63072
+			PLAYER_TAG_THRESHOLD,
+			// Token: 0x0400F661 RID: 63073
+			DEPRECATED_11,
+			// Token: 0x0400F662 RID: 63074
+			DEPRECATED_12,
+			// Token: 0x0400F663 RID: 63075
+			GAMEPLAY_STRING,
+			// Token: 0x0400F664 RID: 63076
+			ZOMBEAST,
+			// Token: 0x0400F665 RID: 63077
+			ZOMBEAST_ENCHANTMENT,
+			// Token: 0x0400F666 RID: 63078
+			HIDDEN_CHOICE,
+			// Token: 0x0400F667 RID: 63079
+			INVESTIGATE,
+			// Token: 0x0400F668 RID: 63080
+			REFERENCE_CREATOR_ENTITY,
+			// Token: 0x0400F669 RID: 63081
+			REFERENCE_SCRIPT_DATA_NUM_1_ENTITY,
+			// Token: 0x0400F66A RID: 63082
+			REFERENCE_SCRIPT_DATA_NUM_1_NUM_2_ENTITY,
+			// Token: 0x0400F66B RID: 63083
+			UNDATAKAH_ENCHANT,
+			// Token: 0x0400F66C RID: 63084
+			SPELL_DAMAGE_ONLY,
+			// Token: 0x0400F66D RID: 63085
+			DRUSTVAR_HORROR,
+			// Token: 0x0400F66E RID: 63086
+			HIDDEN_ENTITY,
+			// Token: 0x0400F66F RID: 63087
+			SCORE_VALUE_COUNT_DOWN,
+			// Token: 0x0400F670 RID: 63088
+			SCRIPT_DATA_NUM_1_NUM_2,
+			// Token: 0x0400F671 RID: 63089
+			POWERED_UP,
+			// Token: 0x0400F672 RID: 63090
+			MULTIPLE_ALT_TEXT_SCRIPT_DATA_NUMS
+		}
+	}
+}

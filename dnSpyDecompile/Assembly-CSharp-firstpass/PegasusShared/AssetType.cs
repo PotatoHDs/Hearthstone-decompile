@@ -1,0 +1,21 @@
+﻿using System;
+
+namespace PegasusShared
+{
+	// Token: 0x0200017F RID: 383
+	public enum AssetType
+	{
+		// Token: 0x04000900 RID: 2304
+		ASSET_TYPE_SCENARIO = 1,
+		// Token: 0x04000901 RID: 2305
+		ASSET_TYPE_SUBSET_CARD,
+		// Token: 0x04000902 RID: 2306
+		ASSET_TYPE_DECK_RULESET,
+		// Token: 0x04000903 RID: 2307
+		ASSET_TYPE_REWARD_CHEST,
+		// Token: 0x04000904 RID: 2308
+		ASSET_TYPE_GUEST_HEROES,
+		// Token: 0x04000905 RID: 2309
+		ASSET_TYPE_DECK_TEMPLATE
+	}
+}

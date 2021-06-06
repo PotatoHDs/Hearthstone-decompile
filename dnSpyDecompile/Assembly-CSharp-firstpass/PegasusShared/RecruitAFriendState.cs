@@ -1,0 +1,23 @@
+﻿using System;
+
+namespace PegasusShared
+{
+	// Token: 0x02000185 RID: 389
+	public enum RecruitAFriendState
+	{
+		// Token: 0x0400091E RID: 2334
+		RAF_RECRUITABLE = 1,
+		// Token: 0x0400091F RID: 2335
+		RAF_RECRUITED,
+		// Token: 0x04000920 RID: 2336
+		RAF_GRADUATED,
+		// Token: 0x04000921 RID: 2337
+		RAF_VALEDICTORIAN,
+		// Token: 0x04000922 RID: 2338
+		RAF_NOT_RECRUITABLE_WRONG_REGION = 1000,
+		// Token: 0x04000923 RID: 2339
+		RAF_NOT_RECRUITABLE_TOO_OLD,
+		// Token: 0x04000924 RID: 2340
+		RAF_GRADUATED_WITHOUT_RECRUITER
+	}
+}

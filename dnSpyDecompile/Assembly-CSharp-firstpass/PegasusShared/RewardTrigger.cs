@@ -1,0 +1,19 @@
+﻿using System;
+
+namespace PegasusShared
+{
+	// Token: 0x0200017C RID: 380
+	public enum RewardTrigger
+	{
+		// Token: 0x040008EE RID: 2286
+		REWARD_TRIGGER_UNKNOWN,
+		// Token: 0x040008EF RID: 2287
+		REWARD_TRIGGER_NONE,
+		// Token: 0x040008F0 RID: 2288
+		REWARD_TRIGGER_WIN_GAME,
+		// Token: 0x040008F1 RID: 2289
+		REWARD_TRIGGER_FINISH_GAME,
+		// Token: 0x040008F2 RID: 2290
+		REWARD_TRIGGER_FINISH_SESSION
+	}
+}

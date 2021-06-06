@@ -1,0 +1,28 @@
+﻿using System;
+
+// Token: 0x0200097C RID: 2428
+public enum SpellClassTag
+{
+	// Token: 0x040070C7 RID: 28871
+	NONE,
+	// Token: 0x040070C8 RID: 28872
+	DEATHKNIGHT,
+	// Token: 0x040070C9 RID: 28873
+	DRUID,
+	// Token: 0x040070CA RID: 28874
+	HUNTER,
+	// Token: 0x040070CB RID: 28875
+	MAGE,
+	// Token: 0x040070CC RID: 28876
+	PALADIN,
+	// Token: 0x040070CD RID: 28877
+	PRIEST,
+	// Token: 0x040070CE RID: 28878
+	ROGUE,
+	// Token: 0x040070CF RID: 28879
+	SHAMAN,
+	// Token: 0x040070D0 RID: 28880
+	WARLOCK,
+	// Token: 0x040070D1 RID: 28881
+	WARRIOR
+}

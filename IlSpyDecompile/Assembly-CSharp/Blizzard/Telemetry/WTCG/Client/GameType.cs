@@ -1,0 +1,21 @@
+namespace Blizzard.Telemetry.WTCG.Client
+{
+	public enum GameType
+	{
+		GT_UNKNOWN = 0,
+		GT_VS_AI = 1,
+		GT_VS_FRIEND = 2,
+		GT_TUTORIAL = 4,
+		GT_ARENA = 5,
+		GT_TEST_AI_VS_AI = 6,
+		GT_RANKED = 7,
+		GT_CASUAL = 8,
+		GT_TAVERNBRAWL = 0x10,
+		GT_FSG_BRAWL_VS_FRIEND = 19,
+		GT_FSG_BRAWL = 20,
+		GT_BATTLEGROUNDS = 23,
+		GT_BATTLEGROUNDS_FRIENDLY = 24,
+		GT_PVPDR_PAID = 28,
+		GT_PVPDR_CASUAL = 29
+	}
+}

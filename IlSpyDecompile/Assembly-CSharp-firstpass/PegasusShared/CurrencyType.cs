@@ -1,0 +1,11 @@
+namespace PegasusShared
+{
+	public enum CurrencyType
+	{
+		CURRENCY_TYPE_UNKNOWN,
+		CURRENCY_TYPE_GOLD,
+		CURRENCY_TYPE_DUST,
+		CURRENCY_TYPE_RUNESTONES,
+		CURRENCY_TYPE_ARCANE_ORBS
+	}
+}

@@ -1,0 +1,12 @@
+﻿using System;
+
+// Token: 0x02000917 RID: 2327
+public enum CHOICE_NAME_DISPLAY
+{
+	// Token: 0x04006C03 RID: 27651
+	INVALID,
+	// Token: 0x04006C04 RID: 27652
+	PLAYER,
+	// Token: 0x04006C05 RID: 27653
+	HERO
+}

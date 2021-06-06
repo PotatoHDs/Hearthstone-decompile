@@ -1,0 +1,24 @@
+﻿using System;
+
+// Token: 0x0200097D RID: 2429
+public enum SpellZoneTag
+{
+	// Token: 0x040070D3 RID: 28883
+	NONE,
+	// Token: 0x040070D4 RID: 28884
+	PLAY,
+	// Token: 0x040070D5 RID: 28885
+	HERO,
+	// Token: 0x040070D6 RID: 28886
+	HERO_POWER,
+	// Token: 0x040070D7 RID: 28887
+	WEAPON,
+	// Token: 0x040070D8 RID: 28888
+	DECK,
+	// Token: 0x040070D9 RID: 28889
+	HAND,
+	// Token: 0x040070DA RID: 28890
+	GRAVEYARD,
+	// Token: 0x040070DB RID: 28891
+	SECRET
+}

@@ -1,0 +1,14 @@
+﻿using System;
+
+// Token: 0x02000927 RID: 2343
+public enum TAG_MULTI_CLASS_GROUP
+{
+	// Token: 0x04006CC9 RID: 27849
+	INVALID,
+	// Token: 0x04006CCA RID: 27850
+	GRIMY_GOONS,
+	// Token: 0x04006CCB RID: 27851
+	JADE_LOTUS,
+	// Token: 0x04006CCC RID: 27852
+	KABAL
+}

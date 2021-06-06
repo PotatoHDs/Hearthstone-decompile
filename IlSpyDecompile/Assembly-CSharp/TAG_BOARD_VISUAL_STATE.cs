@@ -1,0 +1,8 @@
+public enum TAG_BOARD_VISUAL_STATE
+{
+	NONE,
+	SHOP,
+	COMBAT,
+	STW,
+	ORG
+}

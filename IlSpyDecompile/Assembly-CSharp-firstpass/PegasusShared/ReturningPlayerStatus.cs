@@ -1,0 +1,12 @@
+namespace PegasusShared
+{
+	public enum ReturningPlayerStatus
+	{
+		RPS_UNKNOWN,
+		RPS_NOT_RETURNING_PLAYER,
+		RPS_ACTIVE,
+		RPS_COMPLETE,
+		RPS_ACTIVE_OPTED_OUT_QUEST1,
+		RPS_ACTIVE_WITH_MANY_LOSSES
+	}
+}

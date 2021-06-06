@@ -1,0 +1,16 @@
+﻿using System;
+
+// Token: 0x020008B5 RID: 2229
+public enum HiddenDbId
+{
+	// Token: 0x04006375 RID: 25461
+	INVALID,
+	// Token: 0x04006376 RID: 25462
+	FIRST_PURCHASE_OLD,
+	// Token: 0x04006377 RID: 25463
+	WEB_PURCHASE = 8,
+	// Token: 0x04006378 RID: 25464
+	MAMMOTH_BUNDLE = 27,
+	// Token: 0x04006379 RID: 25465
+	FIRST_PURCHASE = 40
+}

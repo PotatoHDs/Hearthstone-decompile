@@ -1,0 +1,14 @@
+﻿using System;
+
+// Token: 0x02000924 RID: 2340
+public enum TAG_ENCHANTMENT_VISUAL
+{
+	// Token: 0x04006CB6 RID: 27830
+	INVALID,
+	// Token: 0x04006CB7 RID: 27831
+	POSITIVE,
+	// Token: 0x04006CB8 RID: 27832
+	NEGATIVE,
+	// Token: 0x04006CB9 RID: 27833
+	NEUTRAL
+}

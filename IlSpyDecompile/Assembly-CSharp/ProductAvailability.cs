@@ -1,0 +1,8 @@
+public enum ProductAvailability
+{
+	UNDEFINED,
+	CAN_PURCHASE,
+	ALREADY_OWNED,
+	RESTRICTED,
+	SALE_NOT_ACTIVE
+}

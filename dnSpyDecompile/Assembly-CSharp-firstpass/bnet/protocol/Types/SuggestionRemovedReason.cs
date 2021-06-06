@@ -1,0 +1,17 @@
+﻿using System;
+
+namespace bnet.protocol.Types
+{
+	// Token: 0x020002BE RID: 702
+	public enum SuggestionRemovedReason
+	{
+		// Token: 0x040011AF RID: 4527
+		SUGGESTION_REMOVED_REASON_APPROVED,
+		// Token: 0x040011B0 RID: 4528
+		SUGGESTION_REMOVED_REASON_DECLINED,
+		// Token: 0x040011B1 RID: 4529
+		SUGGESTION_REMOVED_REASON_EXPIRED,
+		// Token: 0x040011B2 RID: 4530
+		SUGGESTION_REMOVED_REASON_CANCELED
+	}
+}

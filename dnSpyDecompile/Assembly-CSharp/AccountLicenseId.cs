@@ -1,0 +1,12 @@
+﻿using System;
+
+// Token: 0x020008AC RID: 2220
+public enum AccountLicenseId
+{
+	// Token: 0x040060C0 RID: 24768
+	INVALID,
+	// Token: 0x040060C1 RID: 24769
+	BATTLEGROUNDS_EARLY_ACCESS = 50336,
+	// Token: 0x040060C2 RID: 24770
+	DUELS_EARLY_ACCESS = 77345
+}

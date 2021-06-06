@@ -1,0 +1,18 @@
+﻿using System;
+
+// Token: 0x020006A9 RID: 1705
+public enum CurrencyType
+{
+	// Token: 0x0400501F RID: 20511
+	NONE,
+	// Token: 0x04005020 RID: 20512
+	GOLD,
+	// Token: 0x04005021 RID: 20513
+	DUST,
+	// Token: 0x04005022 RID: 20514
+	RUNESTONES,
+	// Token: 0x04005023 RID: 20515
+	REAL_MONEY,
+	// Token: 0x04005024 RID: 20516
+	ARCANE_ORBS
+}

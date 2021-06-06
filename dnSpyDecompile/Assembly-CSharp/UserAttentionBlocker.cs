@@ -1,0 +1,19 @@
+﻿using System;
+
+// Token: 0x02000939 RID: 2361
+[Flags]
+public enum UserAttentionBlocker
+{
+	// Token: 0x04006D62 RID: 28002
+	NONE = 0,
+	// Token: 0x04006D63 RID: 28003
+	FATAL_ERROR_SCENE = 1,
+	// Token: 0x04006D64 RID: 28004
+	SET_ROTATION_INTRO = 2,
+	// Token: 0x04006D65 RID: 28005
+	SET_ROTATION_CM_TUTORIALS = 4,
+	// Token: 0x04006D66 RID: 28006
+	ALL = -1,
+	// Token: 0x04006D67 RID: 28007
+	ALL_EXCEPT_FATAL_ERROR_SCENE = -2
+}

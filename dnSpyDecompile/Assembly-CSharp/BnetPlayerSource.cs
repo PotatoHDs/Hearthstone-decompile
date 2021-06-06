@@ -1,0 +1,18 @@
+﻿using System;
+
+// Token: 0x0200076E RID: 1902
+public enum BnetPlayerSource
+{
+	// Token: 0x04005722 RID: 22306
+	CREATED_BY_CHEAT = -1,
+	// Token: 0x04005723 RID: 22307
+	UNASSIGNED,
+	// Token: 0x04005724 RID: 22308
+	PRESENCE_UPDATE,
+	// Token: 0x04005725 RID: 22309
+	FRIENDLIST,
+	// Token: 0x04005726 RID: 22310
+	NEARBY_PLAYER,
+	// Token: 0x04005727 RID: 22311
+	FSG_PATRON
+}

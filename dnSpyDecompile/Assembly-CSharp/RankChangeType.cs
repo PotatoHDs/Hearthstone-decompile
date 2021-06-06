@@ -1,0 +1,16 @@
+﻿using System;
+
+// Token: 0x02000642 RID: 1602
+public enum RankChangeType
+{
+	// Token: 0x04004D3D RID: 19773
+	UNKNOWN,
+	// Token: 0x04004D3E RID: 19774
+	NO_GAME_PLAYED,
+	// Token: 0x04004D3F RID: 19775
+	RANK_UP,
+	// Token: 0x04004D40 RID: 19776
+	RANK_DOWN,
+	// Token: 0x04004D41 RID: 19777
+	RANK_SAME
+}

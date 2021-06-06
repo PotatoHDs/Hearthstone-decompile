@@ -1,0 +1,44 @@
+namespace Assets
+{
+	public static class Card
+	{
+		public enum CardTextBuilderType
+		{
+			DEFAULT,
+			JADE_GOLEM,
+			JADE_GOLEM_TRIGGER,
+			MODULAR_ENTITY,
+			KAZAKUS_POTION_EFFECT,
+			PRIMORDIAL_WAND,
+			ALTERNATE_CARD_TEXT,
+			SCRIPT_DATA_NUM_1,
+			GALAKROND_COUNTER,
+			DECORATE,
+			PLAYER_TAG_THRESHOLD,
+			DEPRECATED_11,
+			DEPRECATED_12,
+			GAMEPLAY_STRING,
+			ZOMBEAST,
+			ZOMBEAST_ENCHANTMENT,
+			HIDDEN_CHOICE,
+			INVESTIGATE,
+			REFERENCE_CREATOR_ENTITY,
+			REFERENCE_SCRIPT_DATA_NUM_1_ENTITY,
+			REFERENCE_SCRIPT_DATA_NUM_1_NUM_2_ENTITY,
+			UNDATAKAH_ENCHANT,
+			SPELL_DAMAGE_ONLY,
+			DRUSTVAR_HORROR,
+			HIDDEN_ENTITY,
+			SCORE_VALUE_COUNT_DOWN,
+			SCRIPT_DATA_NUM_1_NUM_2,
+			POWERED_UP,
+			MULTIPLE_ALT_TEXT_SCRIPT_DATA_NUMS
+		}
+
+		public static CardTextBuilderType ParseCardTextBuilderTypeValue(string value)
+		{
+			EnumUtils.TryGetEnum<CardTextBuilderType>(value, out var outVal);
+			return outVal;
+		}
+	}
+}

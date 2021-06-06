@@ -1,0 +1,8 @@
+public enum TAG_PUZZLE_TYPE
+{
+	INVALID,
+	MIRROR,
+	LETHAL,
+	SURVIVAL,
+	CLEAR
+}

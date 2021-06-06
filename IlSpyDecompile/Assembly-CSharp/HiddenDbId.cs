@@ -1,0 +1,8 @@
+public enum HiddenDbId
+{
+	INVALID = 0,
+	FIRST_PURCHASE_OLD = 1,
+	WEB_PURCHASE = 8,
+	MAMMOTH_BUNDLE = 27,
+	FIRST_PURCHASE = 40
+}

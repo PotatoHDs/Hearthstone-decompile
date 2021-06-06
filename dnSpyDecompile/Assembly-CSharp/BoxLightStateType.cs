@@ -1,0 +1,24 @@
+﻿using System;
+
+// Token: 0x020000C7 RID: 199
+public enum BoxLightStateType
+{
+	// Token: 0x04000880 RID: 2176
+	INVALID,
+	// Token: 0x04000881 RID: 2177
+	DEFAULT,
+	// Token: 0x04000882 RID: 2178
+	TOURNAMENT,
+	// Token: 0x04000883 RID: 2179
+	COLLECTION,
+	// Token: 0x04000884 RID: 2180
+	PACK_OPENING,
+	// Token: 0x04000885 RID: 2181
+	TUTORIAL,
+	// Token: 0x04000886 RID: 2182
+	FORGE,
+	// Token: 0x04000887 RID: 2183
+	ADVENTURE,
+	// Token: 0x04000888 RID: 2184
+	FRIENDLY
+}

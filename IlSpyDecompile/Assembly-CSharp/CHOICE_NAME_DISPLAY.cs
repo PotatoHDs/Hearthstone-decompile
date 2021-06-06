@@ -1,0 +1,6 @@
+public enum CHOICE_NAME_DISPLAY
+{
+	INVALID,
+	PLAYER,
+	HERO
+}

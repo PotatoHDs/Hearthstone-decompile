@@ -1,0 +1,16 @@
+﻿using System;
+
+// Token: 0x02000717 RID: 1815
+public enum ProductAvailability
+{
+	// Token: 0x040053F7 RID: 21495
+	UNDEFINED,
+	// Token: 0x040053F8 RID: 21496
+	CAN_PURCHASE,
+	// Token: 0x040053F9 RID: 21497
+	ALREADY_OWNED,
+	// Token: 0x040053FA RID: 21498
+	RESTRICTED,
+	// Token: 0x040053FB RID: 21499
+	SALE_NOT_ACTIVE
+}

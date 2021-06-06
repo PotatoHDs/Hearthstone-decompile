@@ -1,0 +1,12 @@
+﻿using System;
+
+// Token: 0x02000915 RID: 2325
+public enum CHOICE_TYPE
+{
+	// Token: 0x04006BFB RID: 27643
+	INVALID,
+	// Token: 0x04006BFC RID: 27644
+	MULLIGAN,
+	// Token: 0x04006BFD RID: 27645
+	GENERAL
+}

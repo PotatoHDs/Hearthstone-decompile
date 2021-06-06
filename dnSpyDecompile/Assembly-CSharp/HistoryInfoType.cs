@@ -1,0 +1,22 @@
+﻿using System;
+
+// Token: 0x02000318 RID: 792
+public enum HistoryInfoType
+{
+	// Token: 0x04001893 RID: 6291
+	NONE,
+	// Token: 0x04001894 RID: 6292
+	WEAPON_PLAYED,
+	// Token: 0x04001895 RID: 6293
+	CARD_PLAYED,
+	// Token: 0x04001896 RID: 6294
+	ATTACK,
+	// Token: 0x04001897 RID: 6295
+	TRIGGER,
+	// Token: 0x04001898 RID: 6296
+	WEAPON_BREAK,
+	// Token: 0x04001899 RID: 6297
+	FATIGUE,
+	// Token: 0x0400189A RID: 6298
+	BURNED_CARDS
+}

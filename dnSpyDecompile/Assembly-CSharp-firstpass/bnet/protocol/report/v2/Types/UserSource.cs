@@ -1,0 +1,23 @@
+﻿using System;
+
+namespace bnet.protocol.report.v2.Types
+{
+	// Token: 0x02000324 RID: 804
+	public enum UserSource
+	{
+		// Token: 0x0400138B RID: 5003
+		USER_SOURCE_OTHER,
+		// Token: 0x0400138C RID: 5004
+		USER_SOURCE_WHISPER,
+		// Token: 0x0400138D RID: 5005
+		USER_SOURCE_PROFILE,
+		// Token: 0x0400138E RID: 5006
+		USER_SOURCE_BATTLE_TAG,
+		// Token: 0x0400138F RID: 5007
+		USER_SOURCE_CHAT,
+		// Token: 0x04001390 RID: 5008
+		USER_SOURCE_FRIEND_INVITATION,
+		// Token: 0x04001391 RID: 5009
+		USER_SOURCE_VOICE
+	}
+}

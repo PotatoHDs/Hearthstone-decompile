@@ -1,0 +1,9 @@
+public enum CharacterDialogEventType
+{
+	UNSPECIFIED,
+	RECEIVE,
+	PROGRESS1,
+	PROGRESS2,
+	COMPLETE,
+	DISMISS
+}

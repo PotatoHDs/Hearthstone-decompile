@@ -1,0 +1,12 @@
+﻿using System;
+
+// Token: 0x0200091C RID: 2332
+public enum TAG_PREMIUM
+{
+	// Token: 0x04006C32 RID: 27698
+	NORMAL,
+	// Token: 0x04006C33 RID: 27699
+	GOLDEN,
+	// Token: 0x04006C34 RID: 27700
+	DIAMOND
+}

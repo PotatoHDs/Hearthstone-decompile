@@ -1,0 +1,65 @@
+using System.Collections.Generic;
+using UnityEngine;
+
+namespace HutongGames.PlayMaker.Actions
+{
+	[ActionCategory(ActionCategory.Material)]
+	[Tooltip("Get a material at index on a gameObject and store it in a variable")]
+	public class GetMaterial : ComponentAction<Renderer>
+	{
+		[RequiredField]
+		[CheckForComponent(typeof(Renderer))]
+		[Tooltip("The GameObject the Material is applied to.")]
+		public FsmOwnerDefault gameObject;
+
+		[Tooltip("The index of the Material in the Materials array.")]
+		public FsmInt materialIndex;
+
+		[RequiredField]
+		[UIHint(UIHint.Variable)]
+		[Tooltip("Store the material in a variable.")]
+		public FsmMaterial material;
+
+		[Tooltip("Get the shared material of this object. NOTE: Modifying the shared material will change the appearance of all objects using this material, and change material settings that are stored in the project too.")]
+		public bool getSharedMaterial;
+
+		public override void Reset()
+		{
+			gameObject = null;
+			material = null;
+			materialIndex = 0;
+			getSharedMaterial = false;
+		}
+
+		public override void OnEnter()
+		{
+			DoGetMaterial();
+			Finish();
+		}
+
+		private void DoGetMaterial()
+		{
+			GameObject ownerDefaultTarget = base.Fsm.GetOwnerDefaultTarget(gameObject);
+			if (UpdateCache(ownerDefaultTarget))
+			{
+				List<Material> materials = base.renderer.GetMaterials();
+				if (materialIndex.Value == 0 && !getSharedMaterial)
+				{
+					material.Value = base.renderer.GetMaterial();
+				}
+				else if (materialIndex.Value == 0 && getSharedMaterial)
+				{
+					material.Value = base.renderer.GetSharedMaterial();
+				}
+				else if (materials.Count > materialIndex.Value && !getSharedMaterial)
+				{
+					material.Value = materials[materialIndex.Value];
+				}
+				else if (materials.Count > materialIndex.Value && getSharedMaterial)
+				{
+					material.Value = materials[materialIndex.Value];
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,17 @@
+﻿using System;
+
+namespace bnet.protocol.Types
+{
+	// Token: 0x020002C2 RID: 706
+	public enum VoiceMuteReason
+	{
+		// Token: 0x040011BE RID: 4542
+		VOICE_MUTE_REASON_NONE,
+		// Token: 0x040011BF RID: 4543
+		VOICE_MUTE_REASON_PARENTAL_CONTROL_LISTEN_ONLY,
+		// Token: 0x040011C0 RID: 4544
+		VOICE_MUTE_REASON_REQUESTED,
+		// Token: 0x040011C1 RID: 4545
+		VOICE_MUTE_REASON_SQUELCHED
+	}
+}

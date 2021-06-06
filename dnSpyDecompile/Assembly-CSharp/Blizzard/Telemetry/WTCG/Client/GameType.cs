@@ -1,0 +1,39 @@
+﻿using System;
+
+namespace Blizzard.Telemetry.WTCG.Client
+{
+	// Token: 0x0200120F RID: 4623
+	public enum GameType
+	{
+		// Token: 0x0400A1ED RID: 41453
+		GT_UNKNOWN,
+		// Token: 0x0400A1EE RID: 41454
+		GT_VS_AI,
+		// Token: 0x0400A1EF RID: 41455
+		GT_VS_FRIEND,
+		// Token: 0x0400A1F0 RID: 41456
+		GT_TUTORIAL = 4,
+		// Token: 0x0400A1F1 RID: 41457
+		GT_ARENA,
+		// Token: 0x0400A1F2 RID: 41458
+		GT_TEST_AI_VS_AI,
+		// Token: 0x0400A1F3 RID: 41459
+		GT_RANKED,
+		// Token: 0x0400A1F4 RID: 41460
+		GT_CASUAL,
+		// Token: 0x0400A1F5 RID: 41461
+		GT_TAVERNBRAWL = 16,
+		// Token: 0x0400A1F6 RID: 41462
+		GT_FSG_BRAWL_VS_FRIEND = 19,
+		// Token: 0x0400A1F7 RID: 41463
+		GT_FSG_BRAWL,
+		// Token: 0x0400A1F8 RID: 41464
+		GT_BATTLEGROUNDS = 23,
+		// Token: 0x0400A1F9 RID: 41465
+		GT_BATTLEGROUNDS_FRIENDLY,
+		// Token: 0x0400A1FA RID: 41466
+		GT_PVPDR_PAID = 28,
+		// Token: 0x0400A1FB RID: 41467
+		GT_PVPDR_CASUAL
+	}
+}

@@ -1,0 +1,10 @@
+namespace bnet.protocol.Types
+{
+	public enum VoiceMuteReason
+	{
+		VOICE_MUTE_REASON_NONE,
+		VOICE_MUTE_REASON_PARENTAL_CONTROL_LISTEN_ONLY,
+		VOICE_MUTE_REASON_REQUESTED,
+		VOICE_MUTE_REASON_SQUELCHED
+	}
+}
