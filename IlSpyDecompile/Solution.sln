@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp\Assembly-CSharp.csproj", "{3470D219-FD7F-4A2F-A98E-A5FDCE5B9E33}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.blizzard.mobile-unity-auth-sdk", "mobile-auth\com.blizzard.mobile-unity-auth-sdk.csproj", "{AB1AE9C5-0814-4717-85B2-064C9FE5AC30}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|AnyCPU = Debug|AnyCPU
@@ -20,6 +22,10 @@ Global
 		{3470D219-FD7F-4A2F-A98E-A5FDCE5B9E33}.Debug|AnyCPU.Build.0 = Debug|AnyCPU
 		{3470D219-FD7F-4A2F-A98E-A5FDCE5B9E33}.Release|AnyCPU.ActiveCfg = Release|AnyCPU
 		{3470D219-FD7F-4A2F-A98E-A5FDCE5B9E33}.Release|AnyCPU.Build.0 = Release|AnyCPU
+		{AB1AE9C5-0814-4717-85B2-064C9FE5AC30}.Debug|AnyCPU.ActiveCfg = Debug|Any CPU
+		{AB1AE9C5-0814-4717-85B2-064C9FE5AC30}.Debug|AnyCPU.Build.0 = Debug|Any CPU
+		{AB1AE9C5-0814-4717-85B2-064C9FE5AC30}.Release|AnyCPU.ActiveCfg = Release|Any CPU
+		{AB1AE9C5-0814-4717-85B2-064C9FE5AC30}.Release|AnyCPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

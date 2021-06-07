@@ -3,10 +3,11 @@
   <PropertyGroup>
     <AssemblyName>Assembly-CSharp</AssemblyName>
     <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
-    <TargetFramework>net40</TargetFramework>
+    <TargetFramework>net5.0</TargetFramework>
+    <Nullable>enable</Nullable>
   </PropertyGroup>
   <PropertyGroup>
-    <LangVersion>Preview</LangVersion>
+    <LangVersion>9</LangVersion>
     <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
   </PropertyGroup>
   <PropertyGroup />
@@ -57,9 +58,6 @@
     </Reference>
     <Reference Include="Blizzard.T5.Core">
       <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Hearthstone\Hearthstone_Data\Managed\Blizzard.T5.Core.dll</HintPath>
-    </Reference>
-    <Reference Include="com.blizzard.mobile-unity-auth-sdk">
-      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Hearthstone\Hearthstone_Data\Managed\com.blizzard.mobile-unity-auth-sdk.dll</HintPath>
     </Reference>
     <Reference Include="System.Xml" />
     <Reference Include="Blizzard.Telemetry.Sdk">
