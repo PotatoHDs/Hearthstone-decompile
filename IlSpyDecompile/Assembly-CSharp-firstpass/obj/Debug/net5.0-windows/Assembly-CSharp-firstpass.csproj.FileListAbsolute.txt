@@ -1,0 +1,13 @@
+C:\Users\korna\Documents\GitHub\HearthstoneBot\IlSpyDecompile\Assembly-CSharp-firstpass\bin\Debug\net5.0-windows\Assembly-CSharp-firstpass.deps.json
+C:\Users\korna\Documents\GitHub\HearthstoneBot\IlSpyDecompile\Assembly-CSharp-firstpass\bin\Debug\net5.0-windows\Assembly-CSharp-firstpass.dll
+C:\Users\korna\Documents\GitHub\HearthstoneBot\IlSpyDecompile\Assembly-CSharp-firstpass\bin\Debug\net5.0-windows\ref\Assembly-CSharp-firstpass.dll
+C:\Users\korna\Documents\GitHub\HearthstoneBot\IlSpyDecompile\Assembly-CSharp-firstpass\bin\Debug\net5.0-windows\Assembly-CSharp-firstpass.pdb
+C:\Users\korna\Documents\GitHub\HearthstoneBot\IlSpyDecompile\Assembly-CSharp-firstpass\bin\Debug\net5.0-windows\UnityEngine.CoreModule.dll
+C:\Users\korna\Documents\GitHub\HearthstoneBot\IlSpyDecompile\Assembly-CSharp-firstpass\bin\Debug\net5.0-windows\UnityEngine.SharedInternalsModule.dll
+C:\Users\korna\Documents\GitHub\HearthstoneBot\IlSpyDecompile\Assembly-CSharp-firstpass\obj\Debug\net5.0-windows\Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+C:\Users\korna\Documents\GitHub\HearthstoneBot\IlSpyDecompile\Assembly-CSharp-firstpass\obj\Debug\net5.0-windows\Assembly-CSharp-firstpass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\korna\Documents\GitHub\HearthstoneBot\IlSpyDecompile\Assembly-CSharp-firstpass\obj\Debug\net5.0-windows\Assembly-CSharp-firstpass.csproj.CoreCompileInputs.cache
+C:\Users\korna\Documents\GitHub\HearthstoneBot\IlSpyDecompile\Assembly-CSharp-firstpass\obj\Debug\net5.0-windows\Assembly-CSharp-firstpass.csproj.CopyComplete
+C:\Users\korna\Documents\GitHub\HearthstoneBot\IlSpyDecompile\Assembly-CSharp-firstpass\obj\Debug\net5.0-windows\Assembly-CSharp-firstpass.dll
+C:\Users\korna\Documents\GitHub\HearthstoneBot\IlSpyDecompile\Assembly-CSharp-firstpass\obj\Debug\net5.0-windows\ref\Assembly-CSharp-firstpass.dll
+C:\Users\korna\Documents\GitHub\HearthstoneBot\IlSpyDecompile\Assembly-CSharp-firstpass\obj\Debug\net5.0-windows\Assembly-CSharp-firstpass.pdb

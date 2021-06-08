@@ -1,0 +1,9 @@
+C:\Users\korna\Documents\GitHub\HearthstoneBot\EditedDll\EditedDll\bin\Debug\EditedDll.dll
+C:\Users\korna\Documents\GitHub\HearthstoneBot\EditedDll\EditedDll\bin\Debug\EditedDll.pdb
+C:\Users\korna\Documents\GitHub\HearthstoneBot\EditedDll\EditedDll\bin\Debug\UnityEngine.dll
+C:\Users\korna\Documents\GitHub\HearthstoneBot\EditedDll\EditedDll\bin\Debug\UnityEngine.xml
+C:\Users\korna\Documents\GitHub\HearthstoneBot\EditedDll\EditedDll\obj\Debug\EditedDll.csprojAssemblyReference.cache
+C:\Users\korna\Documents\GitHub\HearthstoneBot\EditedDll\EditedDll\obj\Debug\EditedDll.csproj.CoreCompileInputs.cache
+C:\Users\korna\Documents\GitHub\HearthstoneBot\EditedDll\EditedDll\obj\Debug\EditedDll.csproj.CopyComplete
+C:\Users\korna\Documents\GitHub\HearthstoneBot\EditedDll\EditedDll\obj\Debug\EditedDll.dll
+C:\Users\korna\Documents\GitHub\HearthstoneBot\EditedDll\EditedDll\obj\Debug\EditedDll.pdb

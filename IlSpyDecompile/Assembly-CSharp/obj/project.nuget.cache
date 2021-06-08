@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "SC818JM8JUBSkss1hcd+cvLCEgrH6sporGY5Xv5VB33ga0mG0rDQtvV5PG+wzWq0uPl7I0hcX+u2kyKmaG2dRg==",
+  "dgSpecHash": "KtRC8BHdtAEA1FbiYVCXP+9fSh4q1OdDcaUfNJW9qa+d9MOGWLnwf5qvuNhgFU8oi9FAePu06xivo7wmagcQRA==",
   "success": true,
   "projectFilePath": "C:\\Users\\korna\\Documents\\GitHub\\HearthstoneBot\\IlSpyDecompile\\Assembly-CSharp\\Assembly-CSharp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\korna\\.nuget\\packages\\microsoft.win32.registry\\6.0.0-preview.4.21253.7\\microsoft.win32.registry.6.0.0-preview.4.21253.7.nupkg.sha512",
+    "C:\\Users\\korna\\.nuget\\packages\\system.security.accesscontrol\\6.0.0-preview.4.21253.7\\system.security.accesscontrol.6.0.0-preview.4.21253.7.nupkg.sha512",
+    "C:\\Users\\korna\\.nuget\\packages\\system.security.principal.windows\\6.0.0-preview.4.21253.7\\system.security.principal.windows.6.0.0-preview.4.21253.7.nupkg.sha512"
+  ],
   "logs": []
 }

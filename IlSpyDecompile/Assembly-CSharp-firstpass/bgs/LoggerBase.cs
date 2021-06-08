@@ -26,7 +26,7 @@ namespace bgs
 			stringBuilder.Append(message + "\n");
 			for (int i = 1 + skipFrames; i < maxFrames; i++)
 			{
-				StackFrame frame = new StackTrace(new StackFrame(i, fNeedFileInfo: true)).GetFrame(0);
+				StackFrame frame = new StackTrace(new StackFrame(i, true)).GetFrame(0);
 				if (frame == null || !(frame.GetMethod() != null) || frame.GetMethod().ToString().StartsWith("<"))
 				{
 					break;

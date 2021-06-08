@@ -1,0 +1,135 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Assembly-CSharp-firstpass/1.0.0": {
+        "dependencies": {
+          "Microsoft.Win32.Registry": "6.0.0-preview.4.21253.7",
+          "UnityEngine.CoreModule": "0.0.0.0"
+        },
+        "runtime": {
+          "Assembly-CSharp-firstpass.dll": {}
+        }
+      },
+      "Microsoft.Win32.Registry/6.0.0-preview.4.21253.7": {
+        "dependencies": {
+          "System.Security.AccessControl": "6.0.0-preview.4.21253.7",
+          "System.Security.Principal.Windows": "6.0.0-preview.4.21253.7"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Win32.Registry.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.25307"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/netstandard2.0/Microsoft.Win32.Registry.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.25307"
+          }
+        }
+      },
+      "System.Security.AccessControl/6.0.0-preview.4.21253.7": {
+        "dependencies": {
+          "System.Security.Principal.Windows": "6.0.0-preview.4.21253.7"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Security.AccessControl.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.25307"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/netstandard2.0/System.Security.AccessControl.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.25307"
+          }
+        }
+      },
+      "System.Security.Principal.Windows/6.0.0-preview.4.21253.7": {
+        "runtime": {
+          "lib/netstandard2.0/System.Security.Principal.Windows.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.25307"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/unix/lib/netcoreapp2.1/System.Security.Principal.Windows.dll": {
+            "rid": "unix",
+            "assetType": "runtime",
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.25307"
+          },
+          "runtimes/win/lib/netcoreapp2.1/System.Security.Principal.Windows.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.25307"
+          }
+        }
+      },
+      "UnityEngine.CoreModule/0.0.0.0": {
+        "runtime": {
+          "UnityEngine.CoreModule.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "UnityEngine.SharedInternalsModule/0.0.0.0": {
+        "runtime": {
+          "UnityEngine.SharedInternalsModule.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Assembly-CSharp-firstpass/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Win32.Registry/6.0.0-preview.4.21253.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-iVd7y6GHsPXKxKywG8sEd3NnDHWfz48vrXD9fw0I6GcsyTgGU95/6dU5SrLli8FoEPiDE4cP177ZjFhtwTH9eA==",
+      "path": "microsoft.win32.registry/6.0.0-preview.4.21253.7",
+      "hashPath": "microsoft.win32.registry.6.0.0-preview.4.21253.7.nupkg.sha512"
+    },
+    "System.Security.AccessControl/6.0.0-preview.4.21253.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-n/nLre+5S94X/nqdBYVg4BLN5UoLiHNPMTxWyedMx5IzOPGU8IJmHt5cjOfLuzSJYGIUj3kfT2Vv6KJ3zcN8nw==",
+      "path": "system.security.accesscontrol/6.0.0-preview.4.21253.7",
+      "hashPath": "system.security.accesscontrol.6.0.0-preview.4.21253.7.nupkg.sha512"
+    },
+    "System.Security.Principal.Windows/6.0.0-preview.4.21253.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hhEseAb3cFiP/17I+JJaq8dP9paTURoajBIxD33fqmd4XuIZNo2hTq+uf27x77tfXrIR/2eip2g6sOaOTkkpTA==",
+      "path": "system.security.principal.windows/6.0.0-preview.4.21253.7",
+      "hashPath": "system.security.principal.windows.6.0.0-preview.4.21253.7.nupkg.sha512"
+    },
+    "UnityEngine.CoreModule/0.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UnityEngine.SharedInternalsModule/0.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

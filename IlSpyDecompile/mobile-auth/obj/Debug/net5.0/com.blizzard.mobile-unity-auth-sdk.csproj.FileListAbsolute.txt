@@ -1,0 +1,14 @@
+C:\Users\korna\Documents\GitHub\HearthstoneBot\IlSpyDecompile\mobile-auth\bin\Debug\net5.0\com.blizzard.mobile-unity-auth-sdk.deps.json
+C:\Users\korna\Documents\GitHub\HearthstoneBot\IlSpyDecompile\mobile-auth\bin\Debug\net5.0\com.blizzard.mobile-unity-auth-sdk.dll
+C:\Users\korna\Documents\GitHub\HearthstoneBot\IlSpyDecompile\mobile-auth\bin\Debug\net5.0\ref\com.blizzard.mobile-unity-auth-sdk.dll
+C:\Users\korna\Documents\GitHub\HearthstoneBot\IlSpyDecompile\mobile-auth\bin\Debug\net5.0\com.blizzard.mobile-unity-auth-sdk.pdb
+C:\Users\korna\Documents\GitHub\HearthstoneBot\IlSpyDecompile\mobile-auth\bin\Debug\net5.0\UnityEngine.CoreModule.dll
+C:\Users\korna\Documents\GitHub\HearthstoneBot\IlSpyDecompile\mobile-auth\bin\Debug\net5.0\UnityEngine.JSONSerializeModule.dll
+C:\Users\korna\Documents\GitHub\HearthstoneBot\IlSpyDecompile\mobile-auth\bin\Debug\net5.0\UnityEngine.SharedInternalsModule.dll
+C:\Users\korna\Documents\GitHub\HearthstoneBot\IlSpyDecompile\mobile-auth\obj\Debug\net5.0\com.blizzard.mobile-unity-auth-sdk.csprojAssemblyReference.cache
+C:\Users\korna\Documents\GitHub\HearthstoneBot\IlSpyDecompile\mobile-auth\obj\Debug\net5.0\com.blizzard.mobile-unity-auth-sdk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\korna\Documents\GitHub\HearthstoneBot\IlSpyDecompile\mobile-auth\obj\Debug\net5.0\com.blizzard.mobile-unity-auth-sdk.csproj.CoreCompileInputs.cache
+C:\Users\korna\Documents\GitHub\HearthstoneBot\IlSpyDecompile\mobile-auth\obj\Debug\net5.0\com.blizzard.mobile-unity-auth-sdk.csproj.CopyComplete
+C:\Users\korna\Documents\GitHub\HearthstoneBot\IlSpyDecompile\mobile-auth\obj\Debug\net5.0\com.blizzard.mobile-unity-auth-sdk.dll
+C:\Users\korna\Documents\GitHub\HearthstoneBot\IlSpyDecompile\mobile-auth\obj\Debug\net5.0\ref\com.blizzard.mobile-unity-auth-sdk.dll
+C:\Users\korna\Documents\GitHub\HearthstoneBot\IlSpyDecompile\mobile-auth\obj\Debug\net5.0\com.blizzard.mobile-unity-auth-sdk.pdb

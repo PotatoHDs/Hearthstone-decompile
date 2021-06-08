@@ -1,0 +1,3 @@
+C:\Users\korna\Documents\GitHub\HearthstoneBot\IlSpyDecompile\Assembly-CSharp-firstpass\obj\Debug\net5.0\Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+C:\Users\korna\Documents\GitHub\HearthstoneBot\IlSpyDecompile\Assembly-CSharp-firstpass\obj\Debug\net5.0\Assembly-CSharp-firstpass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\korna\Documents\GitHub\HearthstoneBot\IlSpyDecompile\Assembly-CSharp-firstpass\obj\Debug\net5.0\Assembly-CSharp-firstpass.csproj.CoreCompileInputs.cache

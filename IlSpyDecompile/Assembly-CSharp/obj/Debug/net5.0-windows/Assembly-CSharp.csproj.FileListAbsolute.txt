@@ -1,0 +1,3 @@
+C:\Users\korna\Documents\GitHub\HearthstoneBot\IlSpyDecompile\Assembly-CSharp\obj\Debug\net5.0-windows\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\korna\Documents\GitHub\HearthstoneBot\IlSpyDecompile\Assembly-CSharp\obj\Debug\net5.0-windows\Assembly-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\korna\Documents\GitHub\HearthstoneBot\IlSpyDecompile\Assembly-CSharp\obj\Debug\net5.0-windows\Assembly-CSharp.csproj.CoreCompileInputs.cache
